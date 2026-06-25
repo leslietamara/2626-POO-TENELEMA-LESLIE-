@@ -1,4 +1,4 @@
-# Sistema de Gestión de Restaurante - SEMANA 6
+# Sistema de Gestión de Restaurante - SEMANA 5
 
 ## Descripción del Proyecto
 
