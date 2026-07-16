@@ -9,7 +9,6 @@ try:
     from explicaciones import (
         mostrar_intro_solid,
         mostrar_menu_solid,
-        mostrar_ejemplo_codigo,
     )
 except Exception:
     # when executed from project root or as a package
@@ -20,7 +19,6 @@ except Exception:
     from restaurante_app.explicaciones import (
         mostrar_intro_solid,
         mostrar_menu_solid,
-        mostrar_ejemplo_codigo,
     )
 
 
