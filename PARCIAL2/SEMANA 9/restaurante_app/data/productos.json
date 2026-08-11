@@ -1,0 +1,16 @@
+{
+  "P001": {
+    "codigo": "P001",
+    "nombre": "Pizza Margarita",
+    "categoria": "Plato fuerte",
+    "precio": 14.5
+  },
+  "B001": {
+    "codigo": "B001",
+    "nombre": "Jugo de naranja",
+    "categoria": "Bebida",
+    "precio": 3.5,
+    "tamano": "500ml",
+    "envase": "vidrio"
+  }
+}
