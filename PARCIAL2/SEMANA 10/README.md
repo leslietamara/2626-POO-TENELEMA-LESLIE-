@@ -1,6 +1,6 @@
 # Restaurante App - Semana 10
 
-Estudiante: Leslie Tamara Tenelma
+Estudiante: Leslie Tamara Tenelema
 
 ## Descripción
 
@@ -71,7 +71,7 @@ La aplicación controla las situaciones esperadas de forma específica:
 ## Cómo ejecutar
 
 ```powershell
-cd "C:\Users\TAMARA\PycharmProjects\2626-POO-TENELEMA-LESLIE-\restaurante_app"
+cd "C:\Users\TAMARA\PycharmProjects\2626-POO-TENELEMA-LESLIE-\PARCIAL2\SEMANA 10\restaurante_app"
 python main.py
 ```
 
